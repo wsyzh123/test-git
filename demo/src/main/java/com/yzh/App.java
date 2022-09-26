@@ -5,5 +5,6 @@ public class App {
         System.out.println("share");
         System.out.println("test push");
         System.out.println("test pull");
+        System.out.println("changing before push");
     }
 }
